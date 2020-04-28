@@ -2,7 +2,7 @@
 # License: MIT. See license file in root directory
 # Copyright(c) JetsonHacks (2017-2018)
 
-OPENCV_VERSION=3.4.3
+OPENCV_VERSION=3.4.8
 # Jetson AGX Xavier
 ARCH_BIN=7.2
 # Jetson TX2
